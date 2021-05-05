@@ -13,5 +13,5 @@ Education
 ======
 * B.S. in finance, UConn, 2004
 * M.P.P., UCLA, 2009
-* Ph.D in Public Policy, Pardee RAND Graduate School, 2014
+* Ph.D in public policy, Pardee RAND Graduate School, 2014
 
